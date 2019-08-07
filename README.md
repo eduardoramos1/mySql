@@ -1,1 +1,1 @@
-# Create DATABASE wm;
+*Create DATABASE wm;*
